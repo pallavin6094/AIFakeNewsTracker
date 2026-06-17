@@ -42,9 +42,6 @@ The project uses MySQL for storing:
 4. Update database credentials in the project.
 5. Compile and run the application.
 
-## Presentation
-[View Project Presentation](Presentation.pdf)
-
 ## Future Enhancements
 - Machine Learning based fake news detection
 - Real-time news monitoring
